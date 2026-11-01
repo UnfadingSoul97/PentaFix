@@ -1,0 +1,33 @@
+Category,Item Description,Qty,Specs / Notes,Est. Unit Price (USD),Est. Total Price (INR),Est. Total Price (USD)
+Structure & Frame,4040 Aluminum Extrusion (Vertical),4.0,"800mm length, structural frame uprights",13.5,5126.76,54.0
+Structure & Frame,4040 Aluminum Extrusion (Top/Bottom Frame),4.0,"620mm length, frame perimeter",10.5,3987.48,42.0
+Structure & Frame,2040 Aluminum Extrusion (Gantry/Cross),5.0,"620mm length, X/Y gantry & structural cross-beams",6.5,3085.55,32.5
+Structure & Frame,Corner Brackets & Gussets,10.0,Heavy-duty aluminum corner plates,1.0,949.4,10.0
+Structure & Frame,Vibration Isolation Rubber Feet,6.0,5cm–6cm tall rubber dampeners,1.25,712.05,7.5
+Linear Motion,MGN9H Linear Rails & Carriage Blocks,2.0,620mm length (Y-axes side rails),13.5,2563.38,27.0
+Linear Motion,MGN12H Linear Rail & Carriage Block,1.0,600mm length (Under-mounted X-axis rail),15.0,1424.1,15.0
+Linear Motion,T8 Lead Screws with Pitch & Brass Nut,3.0,8mm diameter lead screws for Z-axis,4.5,1281.69,13.5
+Linear Motion,GT2 Timing Pulley & Idler Set,6.0,5mm bore toothed and smooth idler stack,1.75,996.87,10.5
+Linear Motion,GT2 6mm Open Timing Belt,5.0,"5 meters total length, fiberglass reinforced",1.6,759.52,8.0
+Linear Motion,Belt Clamps & Tensioners,1.0,Gantry belt mounting hardware set,3.5,332.29,3.5
+Toolhead Assembly,Sherpa Mini Direct Drive Extruder,1.0,Dual-gear micro extruder assembly,25.0,2373.5,25.0
+Toolhead Assembly,TZ-E3 V2.0 High-Flow Hotend,1.0,High-temperature ceramic heat-block,15.0,1424.1,15.0
+Toolhead Assembly,3010 Axial Cooling Fan,1.0,5V/24V heatsink cooling fan,2.5,237.35,2.5
+Toolhead Assembly,4010 Blower Fans,2.0,Symmetrical dual part-cooling blowers,2.75,522.17,5.5
+Motors & Drive,NEMA 17 High-Torque Stepper Motors,3.0,"Standard steppers for X, Y, and Z motion",9.5,2705.79,28.5
+Motors & Drive,NEMA Geared Stepper Motors,3.0,"Gear-reduction steppers (B-tilt, C-rotary, and Z/aux drive)",17.0,4841.94,51.0
+Electronics & Power,32-bit Control Board (MCU),1.0,8-driver slot board (BTT Octopus / SKR 3 equivalent),52.0,4936.88,52.0
+Electronics & Power,TMC2209 Silent Stepper Drivers,6.0,UART stepper driver modules,3.25,1851.33,19.5
+Electronics & Power,RepRapDiscount 12864 Graphic LCD Screen,1.0,Display panel with rotary button encoder + EXP cables,9.5,901.93,9.5
+Electronics & Power,Main Power Supply (PSU),1.0,24V Mean Well LRS-350-24 (or equivalent),28.5,2705.79,28.5
+Electronics & Power,Bed Auto-Leveling Sensor,1.0,MicroProbe / BLTouch auto bed leveling probe,13.0,1234.22,13.0
+Electronics & Power,Full Wiring Harness & Extensions,1.0,"High-flex silicone wire, 4-pin stepper, JST connectors, sleeving",16.5,1566.51,16.5
+Bed & Chamber,580x580mm Aluminum Plate & Hub Assembly,1.0,Lightweight metal plate + 3D-printed C-axis rotation hub,26.0,2468.44,26.0
+Bed & Chamber,AC PTC / Oven Air Heater Element,1.0,Ambient chamber heating coil element,11.0,1044.34,11.0
+Bed & Chamber,Solid State Relay (SSR-25DA),1.0,Relay for controlling AC heater element via MCU,5.5,522.17,5.5
+Bed & Chamber,NTC 100K Chamber Thermistor Sensors,2.0,Ambient temperature measurement for exhaust control,1.75,332.29,3.5
+Fasteners & Materials,"Assorted Screws (M2, M3, M4, M5)",200.0,"Socket head bolts, varied lengths",0.075,1424.1,15.0
+Fasteners & Materials,Drop-in T-Nuts & Brass Inserts,120.0,Extrusion profile T-nuts + M3 heat-set inserts,0.075,854.46,9.0
+Fasteners & Materials,ABS Filament (Initial Structural Mounts),1.5,High-temp structural gantry mounts (1.5 kg),17.0,2420.97,25.5
+Fasteners & Materials,PETG Filament Spool (Self-Printed Parts),1.0,Raw spool for printing secondary chamber parts post-build,15.0,1424.1,15.0
+TOTAL,Grand Total Build Cost,,Complete 5-Axis CoreXY Project Baseline,,57011.47,600.5

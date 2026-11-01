@@ -25,7 +25,7 @@ I went with a simple CoreXY Design for the Motion and the Printhead is able to t
 But i do need to buy a Digiial Caliper cuz need to take meassurements.
 
 # BOM
-The BOM went above to around 625$ but a lil leway for 60 more dollars would help a lot cuz shipping and vendors chnages prices some times.
+The BOM went above to around 625$(ik the BOM says 600.05 but that was on items on sale and by the time either they will be increased in price or they would be lower and i havent checked with any 3D printerers for 3D print costs other than online and normal rates,For the metal parts i only checked online prices.So thats why am asking for that leeway) but a lil leeway for 60 more dollars would help a lot cuz shipping and vendors chnages prices some times.
 
 I think i managed to organize all my parts well on Onshape
 https://cad.onshape.com/documents/41603068f34d0c027fd4aefb/w/06b55a252bd3cdf48f253869/e/9a1e922a4c495abcbce8d43b
@@ -33,4 +33,5 @@ https://cad.onshape.com/documents/41603068f34d0c027fd4aefb/w/06b55a252bd3cdf48f2
 # Some FEEDBACK
 I lowkey had my brain melting figuring out how to make some parts cuz i had no idea how they looked or worked.
 I had to use Gemni for Therapy.Which helped and here we are am finished. Really hoping to finish this project and brining it to life.
+
 

@@ -1,6 +1,6 @@
 Item Name ,General Notes ,Qty ,Estimate Price , Link
- 4040 Extrusion ,For the Main Frame contains 4 620mm and 800mm each ,8  ,46.59 , https://www.3dprintronics.com/extrusions?productId=502510276
- 2040 Extrusion ,For the Top frame and Support 5 620mm and 1 630 ,6  ,45.23 , https://www.3dprintronics.com/extrusions?productId=720294011
+ 4040 lite  ,For the Main Frame contains 4 600mm and 520mm each ,8  ,79.91 , https://www.3dprintronics.com/extrusions?productId=502510276
+ 2040 Extrusion ,For the Top frame and Support 5 520mm and 1 530mm ,6  ,39.58, https://www.3dprintronics.com/extrusions?productId=720294011
  Sherpa Mini Kit ,Contains a motor and Sherpa MINI ,1 ,50.05 , https://3dmellow.com/products/mellow-sherpa-mini-r2-extruder-direct-drive-for-voron-24-vzbot-hevort-blv-ender-3-ender-5-diy-3d-printer-parts?VariantsId=10718
  Brackets ,Support Brackets for Frame(CB-40-SET),12 ,12.05 , https://www.3dprintronics.com/bracketsproductId=602255007
  Belt Clamp ,Holes the Belt to the Guide rail Block , 4 , 2.56 , https://zbotic.in/product/fix-block-9-x-40mm-for-6mm-or-10mm-belt/?srsltid=AYCX9vLISlFNf9QTsChwRfenJsL_Pe_kTS14ZD9X2aB-kFiTICx3khUTZx8
@@ -9,7 +9,7 @@ Item Name ,General Notes ,Qty ,Estimate Price , Link
  MGNH9H Block and rail ,For x axis movement ,2  ,57.89 , https://robokits.co.in/mechanical-parts/cnc-router-xyz-axis-part/astro-lm-guide-rail-block/astro-mgn9-1000l-miniature-linear-motion-lm-guide-rail-with-mgn9h-extended-type-block?products_id=4791:b87517992f7dce71b674976b280257d2
  MGN12H Block and rail , for Y axis movement , 1 ,30.41 , https://robokits.co.in/mechanical-parts/cnc-router-xyz-axis-part/astro-lm-guide-rail-block/astro-mgn12-1000l-miniature-linear-motion-lm-guide-rail-with-mgn12h-extended-type-block
  T8 Anti Backlash Nuts , TO support the T8 lead Screws ,3 ,4.29 , https://robu.in/product/t8-anti-backlash-spring-loaded-nut-for-cnc-8mm-threaded-rod-lead-screw/
- T8 Bearing ,Ball Bearing for T8 Screw to spin freely ,3 ,2.20 , https://robu.in/product/8mm-inner-diameter-zinc-alloy-pillow-block-flange-bearing-kfl08/
+ T8 Bearing ,Ball Bearing for T8 Screw to spin freely ,1.99 , https://robu.in/product/8mm-inner-diameter-zinc-alloy-pillow-block-flange-bearing-kfl08/
  T8 trapezoidal lead Screws ,To move the Bed plate in Z axis ,3 ,11.03 , https://robu.in/product/600mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut/
  GT2 Idler Pulley ,Idler Pulleies , 8 ,8.87 , https://robocraze.com/products/2gt-20-teeth-pulley-wheel-for-belt-6mm-perlin-passive-idler-pulley-wheel-bore-5mm?variant=43175930691808&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=19018890706&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=19012070097&gclid=CjwKCAiAtbvXBhB_EiwAjwv9JqwLpKJr89KxFOd4utPdzdSVRcdzwqJgUljHiSoMf9LGXGcqBD0ieRoCQr0QAvD_BwE
  GT2 Timer Pulleys , To attach to the NEMA , 2 ,2.66 , https://techtonics.in/product/gt2-timing-pulley-20-teeth-5mm-bore-for-6-mm-belt/?srsltid=AYCX9vJK47rkTpcUdrE5ejihOzDzaGdJY0Vt-8_cWte25JCYJjDNnKp1wNo
@@ -17,9 +17,9 @@ Item Name ,General Notes ,Qty ,Estimate Price , Link
  T2-E3-2.0 Hotend , To heat filament ,1 ,22.52 , https://www.trianglelab.net/products/tz-e3-20-hotend?VariantsId=11441
  3010 Fan ,For Cooling The Hotend , 1 ,2.96 , https://robu.in/product/dc-24v-3010-double-ball-cooling-fan-with-xh2-54-2p-30cm-cable-size303010mm/
  4010 radial Fan,For cooling the exiting Filament , 2 ,9.90, https://www.3idea.in/product-detail/creality-4010-hotend-blower-fan-24v?gad_source=1&gad_campaignid=22558040281&gclid=CjwKCAiAtbvXBhB_EiwAjwv9JjVxpD1NyO1LSBobmRIa3C-yn335c0J59tik4JOQjL-D72-ZH5xI8BoCpn4QAvD_BwE
- NEMA 17 Motor,To move the bed plate and X axis movement , 5,24.83 , https://www.electropi.in/nema17-4.8-kg-cm-stepper-motor-with-detachable-72-cm-cable
- Nema 17 geared ,To support the bed plate movement spin the bed plate and tilt the Hotend ,2 ,55.82 , https://robokits.co.in/motors/stepper-motor/stepper-motor-with-gearbox/nema17-planetary-geared-stepper-motor-60kgcm?products_id=1302:996009f2374006606f4c0b0fda878af1
- BIGTREETECH Manta M8P V2.0 + CB1 , MCU and Adapter for drivers and display , set of 1 , 108.98 , https://robu.in/product/bigtreetech-cb1-board/?gad_source=4&gad_campaignid=17413441824&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-x1YpLZvQ_2Akr2SCV-pIOPw7eC-FAuJu9pyoPw9NHZ_MBKmed6k2xoCjk0QAvD_BwE  https://novo3d.in/manta-m8p-v2/?srsltid=AYCX9vJBMU7wXT0bMhH4H6AGIshiksHqrw3MM5Q7Q-QUkB4fWW8xGLoY
- TMC5160 Pro Driver ,To control the Geared Motors ,3 , 61.97 , https://biqu.equipment/products/tmc5160-pro-v1-0?variant=40301980680290
- TMC2209 Stepper Motor Driver ,To control the normal Motors , 5 ,64.90 , https://robu.in/product/tmc2209-v3-0-stepper-motor-driver-module/ 
- Bed Level Sensor , To sense Bed LEVEL  , 1 ,12.66 , https://robu.in/product/3d-touch-auto-leveling-sensor/?gad_source=1&gad_campaignid=17427803012&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-1XiIKHXk_udZVuIdkryR0okeeyQrbbnH7VJDj2QviP3f9B0xm9TEBoCgMUQAvD_BwE
+ NEMA 17 Motor,To move the bed plate and X axis movement , 5,34.49 , https://www.electropi.in/nema17-4.8-kg-cm-stepper-motor-with-detachable-72-cm-cable
+ Nema 17 geared ,To support the bed plate movement spin the bed plate and tilt the Hotend ,2 ,59.42, [https://robokits.co.in/motors/stepper-motor/stepper-motor-with-gearbox/nema17-planetary-geared-stepper-motor-60kgcm?products_id=1302:996009f2374006606f4c0b0fda878af1](https://xrobo.in/products/nema17-60kgcm-stepper-motor-with-gearbox?variant=46570118021295&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AYCX9vKULC9csOGERUAz_NBur9U2C6v1ImHEJphwRWXK7SCWrZ744IQbOpg)
+ BIGTREETECH Manta M8P V2.0 , Control board , set of 1 , 78.11 ,   https://novo3d.in/manta-m8p-v2/?srsltid=AYCX9vJBMU7wXT0bMhH4H6AGIshiksHqrw3MM5Q7Q-QUkB4fWW8xGLoY
+ CB1 ,Control Board for drivers ,1 ,30.87 , https://robu.in/product/bigtreetech-cb1-board/?gad_source=4&gad_campaignid=17413441824&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-x1YpLZvQ_2Akr2SCV-pIOPw7eC-FAuJu9pyoPw9NHZ_MBKmed6k2xoCjk0QAvD_BwE
+TMC2209 Stepper Motor Driver ,To control the normal Motors , 8,38.25 , https://novo3d.in/mks-tmc2209/?utm_source=Google%20Shopping&utm_campaign=Product%20Feed%20with%20Variation&utm_medium=cpc&utm_term=adtribes&srsltid=AYCX9vLDk6FIbgbnZyQdoHBUXaQj-SD0tu9dETJgIwr9_-AneUeO_z4nJew)
+Bed Level Sensor , To sense Bed LEVEL  , 1 ,12.66 , https://robu.in/product/3d-touch-auto-leveling-sensor/?gad_source=1&gad_campaignid=17427803012&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-1XiIKHXk_udZVuIdkryR0okeeyQrbbnH7VJDj2QviP3f9B0xm9TEBoCgMUQAvD_BwE

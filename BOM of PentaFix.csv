@@ -17,8 +17,8 @@ Item Name ,General Notes ,Qty ,Estimate Price , Link
  T2-E3-2.0 Hotend , To heat filament ,1 ,22.52 , https://www.trianglelab.net/products/tz-e3-20-hotend?VariantsId=11441
  3010 Fan ,For Cooling The Hotend , 1 ,2.96 , https://robu.in/product/dc-24v-3010-double-ball-cooling-fan-with-xh2-54-2p-30cm-cable-size303010mm/
  4010 radial Fan,For cooling the exiting Filament , 2 ,9.90, https://www.3idea.in/product-detail/creality-4010-hotend-blower-fan-24v?gad_source=1&gad_campaignid=22558040281&gclid=CjwKCAiAtbvXBhB_EiwAjwv9JjVxpD1NyO1LSBobmRIa3C-yn335c0J59tik4JOQjL-D72-ZH5xI8BoCpn4QAvD_BwE
- NEMA 17 Motor,To move the bed plate and X axis movement , 4,24.83 , https://www.electropi.in/nema17-4.8-kg-cm-stepper-motor-with-detachable-72-cm-cable
- Nema 17 geared ,To support the bed plate movement spin the bed plate and tilt the Hotend ,3 ,103.2 , https://robokits.co.in/motors/stepper-motor/stepper-motor-with-gearbox/nema17-planetary-geared-stepper-motor-60kgcm?products_id=1302:996009f2374006606f4c0b0fda878af1
+ NEMA 17 Motor,To move the bed plate and X axis movement , 5,24.83 , https://www.electropi.in/nema17-4.8-kg-cm-stepper-motor-with-detachable-72-cm-cable
+ Nema 17 geared ,To support the bed plate movement spin the bed plate and tilt the Hotend ,2 ,55.82 , https://robokits.co.in/motors/stepper-motor/stepper-motor-with-gearbox/nema17-planetary-geared-stepper-motor-60kgcm?products_id=1302:996009f2374006606f4c0b0fda878af1
  BIGTREETECH Manta M8P V2.0 + CB1 , MCU and Adapter for drivers and display , set of 1 , 108.98 , https://robu.in/product/bigtreetech-cb1-board/?gad_source=4&gad_campaignid=17413441824&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-x1YpLZvQ_2Akr2SCV-pIOPw7eC-FAuJu9pyoPw9NHZ_MBKmed6k2xoCjk0QAvD_BwE  https://novo3d.in/manta-m8p-v2/?srsltid=AYCX9vJBMU7wXT0bMhH4H6AGIshiksHqrw3MM5Q7Q-QUkB4fWW8xGLoY
  TMC5160 Pro Driver ,To control the Geared Motors ,3 , 61.97 , https://biqu.equipment/products/tmc5160-pro-v1-0?variant=40301980680290
  TMC2209 Stepper Motor Driver ,To control the normal Motors , 5 ,64.90 , https://robu.in/product/tmc2209-v3-0-stepper-motor-driver-module/ 

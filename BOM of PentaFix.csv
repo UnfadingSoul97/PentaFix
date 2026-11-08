@@ -1,33 +1,27 @@
-Category,Item Description,Qty,Specs / Notes,Est. Unit Price (USD),Est. Total Price (INR),Est. Total Price (USD)
-Structure & Frame,4040 Aluminum Extrusion (Vertical),4.0,"800mm length, structural frame uprights",13.5,5126.76,54.0
-Structure & Frame,4040 Aluminum Extrusion (Top/Bottom Frame),4.0,"620mm length, frame perimeter",10.5,3987.48,42.0
-Structure & Frame,2040 Aluminum Extrusion (Gantry/Cross),5.0,"620mm length, X/Y gantry & structural cross-beams",6.5,3085.55,32.5
-Structure & Frame,Corner Brackets & Gussets,10.0,Heavy-duty aluminum corner plates,1.0,949.4,10.0
-Structure & Frame,Vibration Isolation Rubber Feet,6.0,5cm–6cm tall rubber dampeners,1.25,712.05,7.5
-Linear Motion,MGN9H Linear Rails & Carriage Blocks,2.0,620mm length (Y-axes side rails),13.5,2563.38,27.0
-Linear Motion,MGN12H Linear Rail & Carriage Block,1.0,600mm length (Under-mounted X-axis rail),15.0,1424.1,15.0
-Linear Motion,T8 Lead Screws with Pitch & Brass Nut,3.0,8mm diameter lead screws for Z-axis,4.5,1281.69,13.5
-Linear Motion,GT2 Timing Pulley & Idler Set,6.0,5mm bore toothed and smooth idler stack,1.75,996.87,10.5
-Linear Motion,GT2 6mm Open Timing Belt,5.0,"5 meters total length, fiberglass reinforced",1.6,759.52,8.0
-Linear Motion,Belt Clamps & Tensioners,1.0,Gantry belt mounting hardware set,3.5,332.29,3.5
-Toolhead Assembly,Sherpa Mini Direct Drive Extruder,1.0,Dual-gear micro extruder assembly,25.0,2373.5,25.0
-Toolhead Assembly,TZ-E3 V2.0 High-Flow Hotend,1.0,High-temperature ceramic heat-block,15.0,1424.1,15.0
-Toolhead Assembly,3010 Axial Cooling Fan,1.0,5V/24V heatsink cooling fan,2.5,237.35,2.5
-Toolhead Assembly,4010 Blower Fans,2.0,Symmetrical dual part-cooling blowers,2.75,522.17,5.5
-Motors & Drive,NEMA 17 High-Torque Stepper Motors,3.0,"Standard steppers for X, Y, and Z motion",9.5,2705.79,28.5
-Motors & Drive,NEMA Geared Stepper Motors,3.0,"Gear-reduction steppers (B-tilt, C-rotary, and Z/aux drive)",17.0,4841.94,51.0
-Electronics & Power,32-bit Control Board (MCU),1.0,8-driver slot board (BTT Octopus / SKR 3 equivalent),52.0,4936.88,52.0
-Electronics & Power,TMC2209 Silent Stepper Drivers,6.0,UART stepper driver modules,3.25,1851.33,19.5
-Electronics & Power,RepRapDiscount 12864 Graphic LCD Screen,1.0,Display panel with rotary button encoder + EXP cables,9.5,901.93,9.5
-Electronics & Power,Main Power Supply (PSU),1.0,24V Mean Well LRS-350-24 (or equivalent),28.5,2705.79,28.5
-Electronics & Power,Bed Auto-Leveling Sensor,1.0,MicroProbe / BLTouch auto bed leveling probe,13.0,1234.22,13.0
-Electronics & Power,Full Wiring Harness & Extensions,1.0,"High-flex silicone wire, 4-pin stepper, JST connectors, sleeving",16.5,1566.51,16.5
-Bed & Chamber,580x580mm Aluminum Plate & Hub Assembly,1.0,Lightweight metal plate + 3D-printed C-axis rotation hub,26.0,2468.44,26.0
-Bed & Chamber,AC PTC / Oven Air Heater Element,1.0,Ambient chamber heating coil element,11.0,1044.34,11.0
-Bed & Chamber,Solid State Relay (SSR-25DA),1.0,Relay for controlling AC heater element via MCU,5.5,522.17,5.5
-Bed & Chamber,NTC 100K Chamber Thermistor Sensors,2.0,Ambient temperature measurement for exhaust control,1.75,332.29,3.5
-Fasteners & Materials,"Assorted Screws (M2, M3, M4, M5)",200.0,"Socket head bolts, varied lengths",0.075,1424.1,15.0
-Fasteners & Materials,Drop-in T-Nuts & Brass Inserts,120.0,Extrusion profile T-nuts + M3 heat-set inserts,0.075,854.46,9.0
-Fasteners & Materials,ABS Filament (Initial Structural Mounts),1.5,High-temp structural gantry mounts (1.5 kg),17.0,2420.97,25.5
-Fasteners & Materials,PETG Filament Spool (Self-Printed Parts),1.0,Raw spool for printing secondary chamber parts post-build,15.0,1424.1,15.0
-TOTAL,Grand Total Build Cost,,Complete 5-Axis CoreXY Project Baseline,,57011.47,600.5
+Item Name ,General Notes ,Qty ,Estimate Price , Link
+ 4040 Extrusion ,For the Main Frame contains 4 620mm and 800mm each ,8  ,79.91 , https://www.3dprintronics.com/extrusions?productId=502510276
+ 2040 Extrusion ,For the Top frame and Support 5 620mm and 1 630 ,6  ,45.23 , https://www.3dprintronics.com/extrusions?productId=720294011
+ Sherpa Mini Kit ,Contains a motor and Sherpa MINI ,1 ,50.05 , https://3dmellow.com/products/mellow-sherpa-mini-r2-extruder-direct-drive-for-voron-24-vzbot-hevort-blv-ender-3-ender-5-diy-3d-printer-parts?VariantsId=10718
+ Brackets ,Support Brackets for Frame(CB-40-SET),12 ,12.05 , https://www.3dprintronics.com/bracketsproductId=602255007
+ Belt Clamp ,Holes the Belt to the Guide rail Block , 4 , 2.56 , https://zbotic.in/product/fix-block-9-x-40mm-for-6mm-or-10mm-belt/?srsltid=AYCX9vLISlFNf9QTsChwRfenJsL_Pe_kTS14ZD9X2aB-kFiTICx3khUTZx8
+ Belt tensioners ,To keep the Belt In tension ,Pack of 5 x 1 , 1.39 , https://anilestore.com/product/tensioner-torsion-spring-for-gt2-6mm-timing-belt-used-in-3d-printer-5pcs
+ GT2 Belt , For movement of guide Rails ,1 Pack ,4.77 , https://robu.in/product/5-meter-x-gt2-open-timing-belt-6mm-width/
+ MGNH9H Block and rail ,For x axis movement ,2  ,57.89 , https://robokits.co.in/mechanical-parts/cnc-router-xyz-axis-part/astro-lm-guide-rail-block/astro-mgn9-1000l-miniature-linear-motion-lm-guide-rail-with-mgn9h-extended-type-block?products_id=4791:b87517992f7dce71b674976b280257d2
+ MGN12H Block and rail , for Y axis movement , 1 ,30.41 , https://robokits.co.in/mechanical-parts/cnc-router-xyz-axis-part/astro-lm-guide-rail-block/astro-mgn12-1000l-miniature-linear-motion-lm-guide-rail-with-mgn12h-extended-type-block
+ T8 Anti Backlash Nuts , TO support the T8 lead Screws ,3 ,4.29 , https://robu.in/product/t8-anti-backlash-spring-loaded-nut-for-cnc-8mm-threaded-rod-lead-screw/
+ T8 Bearing ,Ball Bearing for T8 Screw to spin freely ,1.99 , https://robu.in/product/8mm-inner-diameter-zinc-alloy-pillow-block-flange-bearing-kfl08/
+ T8 trapezoidal lead Screws ,To move the Bed plate in Z axis ,3 ,11.03 , https://robu.in/product/600mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut/
+ GT2 Idler Pulley ,Idler Pulleies , 8 ,8.87 , https://robocraze.com/products/2gt-20-teeth-pulley-wheel-for-belt-6mm-perlin-passive-idler-pulley-wheel-bore-5mm?variant=43175930691808&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=19018890706&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=19012070097&gclid=CjwKCAiAtbvXBhB_EiwAjwv9JqwLpKJr89KxFOd4utPdzdSVRcdzwqJgUljHiSoMf9LGXGcqBD0ieRoCQr0QAvD_BwE
+ GT2 Timer Pulleys , To attach to the NEMA , 2 ,2.66 , https://techtonics.in/product/gt2-timing-pulley-20-teeth-5mm-bore-for-6-mm-belt/?srsltid=AYCX9vJK47rkTpcUdrE5ejihOzDzaGdJY0Vt-8_cWte25JCYJjDNnKp1wNo
+ Rubber Feet ,To help with Vibration and have space under the Printer ,4  ,1.70 ,Local Store 
+ T2-E3-2.0 Hotend , To heat filament ,1 ,22.52 , https://www.trianglelab.net/products/tz-e3-20-hotend?VariantsId=11441
+ 3010 Fan ,For Cooling The Hotend , 1 ,2.96 , https://robu.in/product/dc-24v-3010-double-ball-cooling-fan-with-xh2-54-2p-30cm-cable-size303010mm/
+ 4010 radial Fan,For cooling the exiting Filament , 2 ,9.90, https://www.3idea.in/product-detail/creality-4010-hotend-blower-fan-24v?gad_source=1&gad_campaignid=22558040281&gclid=CjwKCAiAtbvXBhB_EiwAjwv9JjVxpD1NyO1LSBobmRIa3C-yn335c0J59tik4JOQjL-D72-ZH5xI8BoCpn4QAvD_BwE
+ NEMA 17 Motor,To move the bed plate and X axis movement , 4,24.83 , https://www.electropi.in/nema17-4.8-kg-cm-stepper-motor-with-detachable-72-cm-cable
+ Nema 17 geared ,To support the bed plate movement spin the bed plate and tilt the Hotend ,3 ,103.2 , https://robokits.co.in/motors/stepper-motor/stepper-motor-with-gearbox/nema17-planetary-geared-stepper-motor-60kgcm?products_id=1302:996009f2374006606f4c0b0fda878af1
+ BIGTREETECH Manta M8P V2.0 + CB1 , MCU and Adapter for drivers and display , set of 1 , 108.98 , https://robu.in/product/bigtreetech-cb1-board/?gad_source=4&gad_campaignid=17413441824&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-x1YpLZvQ_2Akr2SCV-pIOPw7eC-FAuJu9pyoPw9NHZ_MBKmed6k2xoCjk0QAvD_BwE  https://novo3d.in/manta-m8p-v2/?srsltid=AYCX9vJBMU7wXT0bMhH4H6AGIshiksHqrw3MM5Q7Q-QUkB4fWW8xGLoY
+ TMC5160 Pro Driver ,To control the Geared Motors ,3 , 61.97 , https://biqu.equipment/products/tmc5160-pro-v1-0?variant=40301980680290
+ TMC2209 Stepper Motor Driver ,To control the normal Motors , 5 ,64.90 , https://robu.in/product/tmc2209-v3-0-stepper-motor-driver-module/ 
+ Bed Level Sensor , To sense Bed LEVEL  , 1 ,12.66 , https://robu.in/product/3d-touch-auto-leveling-sensor/?gad_source=1&gad_campaignid=17427803012&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-1XiIKHXk_udZVuIdkryR0okeeyQrbbnH7VJDj2QviP3f9B0xm9TEBoCgMUQAvD_BwE
+
+ 

@@ -7,12 +7,12 @@ Item Name ,General Notes ,Qty ,Estimate Price , Link
  Belt tensioners ,To keep the Belt In tension ,Pack of 5 x 1 , 1.39 , https://anilestore.com/product/tensioner-torsion-spring-for-gt2-6mm-timing-belt-used-in-3d-printer-5pcs
  GT2 Belt , For movement of guide Rails ,1 Pack ,4.77 , https://robu.in/product/5-meter-x-gt2-open-timing-belt-6mm-width/
  MGNH9H Block and rail ,For x axis movement ,1M  ,28.98 , https://robokits.co.in/mechanical-parts/cnc-router-xyz-axis-part/astro-lm-guide-rail-block/astro-mgn9-1000l-miniature-linear-motion-lm-guide-rail-with-mgn9h-extended-type-block?products_id=4791:b87517992f7dce71b674976b280257d2
- MGN12H Block and rail , for Y axis movement , 550mm ,22.98 , https://robokits.co.in/mechanical-parts/cnc-router-xyz-axis-part/astro-lm-guide-rail-block/astro-mgn12-1000l-miniature-linear-motion-lm-guide-rail-with-mgn12h-extended-type-block](https://store.qelviriva.com/product-p-812467.htm)
+ MGN12H Block and rail , for Y axis movement , 550mm ,21.98 , https://store.qelviriva.com/product-p-812467.htm
  T8 Anti Backlash Nuts , TO support the T8 lead Screws ,3 ,4.29 , https://robu.in/product/t8-anti-backlash-spring-loaded-nut-for-cnc-8mm-threaded-rod-lead-screw/
  T8 Bearing ,Ball Bearing for T8 Screw to spin freely,3 ,1.99 , https://robu.in/product/8mm-inner-diameter-zinc-alloy-pillow-block-flange-bearing-kfl08/
  T8 trapezoidal lead Screws ,To move the Bed plate in Z axis ,3 ,11.03 , https://robu.in/product/600mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut/
  GT2 Idler Pulley ,Idler Pulleies , 8 ,8.87 , https://robocraze.com/products/2gt-20-teeth-pulley-wheel-for-belt-6mm-perlin-passive-idler-pulley-wheel-bore-5mm?variant=43175930691808&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=19018890706&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=19012070097&gclid=CjwKCAiAtbvXBhB_EiwAjwv9JqwLpKJr89KxFOd4utPdzdSVRcdzwqJgUljHiSoMf9LGXGcqBD0ieRoCQr0QAvD_BwE
- GT2 Timer Pulleys , To attach to the NEMA , 2 ,2.66 , https://techtonics.in/product/gt2-timing-pulley-20-teeth-5mm-bore-for-6-mm-belt/?srsltid=AYCX9vJK47rkTpcUdrE5ejihOzDzaGdJY0Vt-8_cWte25JCYJjDNnKp1wNo
+ GT2 Timer Pulleys , To attach to the NEMA , 3 ,2.18 , https://techtonics.in/product/gt2-timing-pulley-20-teeth-5mm-bore-for-6-mm-belt/?srsltid=AYCX9vJK47rkTpcUdrE5ejihOzDzaGdJY0Vt-8_cWte25JCYJjDNnKp1wNo
  Rubber Feet ,To help with Vibration and have space under the Printer ,4  ,1.70 ,Local Store 
  T2-E3-2.0 Hotend , To heat filament ,1 ,22.52 , https://www.trianglelab.net/products/tz-e3-20-hotend?VariantsId=11441
  3010 Fan ,For Cooling The Hotend , 1 ,2.96 , https://robu.in/product/dc-24v-3010-double-ball-cooling-fan-with-xh2-54-2p-30cm-cable-size303010mm/
@@ -22,6 +22,7 @@ Item Name ,General Notes ,Qty ,Estimate Price , Link
  BIGTREETECH Manta M8P V2.0 , Control board , set of 1 , 78.11 ,   https://novo3d.in/manta-m8p-v2/?srsltid=AYCX9vJBMU7wXT0bMhH4H6AGIshiksHqrw3MM5Q7Q-QUkB4fWW8xGLoY
  CB1 ,Control Board for drivers ,1 ,30.87 , https://robu.in/product/bigtreetech-cb1-board/?gad_source=4&gad_campaignid=17413441824&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-x1YpLZvQ_2Akr2SCV-pIOPw7eC-FAuJu9pyoPw9NHZ_MBKmed6k2xoCjk0QAvD_BwE
  TMC2209 Stepper Motor Driver ,To control the normal Motors , 8,38.25 , https://novo3d.in/mks-tmc2209/?utm_source=Google%20Shopping&utm_campaign=Product%20Feed%20with%20Variation&utm_medium=cpc&utm_term=adtribes&srsltid=AYCX9vLDk6FIbgbnZyQdoHBUXaQj-SD0tu9dETJgIwr9_-AneUeO_z4nJew)
- Bed Level Sensor , To sense Bed LEVEL  , 1 ,12.66 , https://robu.in/product/3d-touch-auto-leveling-sensor/?gad_source=1&gad_campaignid=17427803012&gclid=CjwKCAiA2MDXBhBUEiwAD-YB-1XiIKHXk_udZVuIdkryR0okeeyQrbbnH7VJDj2QviP3f9B0xm9TEBoCgMUQAvD_BwE
- 608 ZZ Metal bearing ,To help save cost and not use a geared nema :p , 1 , 0.92 , https://quartzcomponents.com/products/607-zz-miniature-deep-groove-ball-bearing-7-19-6-mm-double-metal-shielded-copy
+ Lazy Susan Rotating Table,To help save cost and not use a geared nema :p , 1 , 6.38 , https://quartzcomponents.com/products/607-zz-miniature-deep-groove-ball-bearing-7-19-6-mm-double-metal-shielded-copy
+ 3d printing , Parts need to printed in ABS , N/A ,40 , Local 3D printing 
+
 
